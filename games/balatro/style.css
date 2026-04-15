@@ -29,6 +29,14 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--accent);
 }
 
+<<<<<<< HEAD
+
+big {
+	font-size: 100px;
+}
+
+=======
+>>>>>>> parent of 291f3f3 (add a bunch o' shit)
 section {
   background: var(--card);
   border: 1px solid var(--border);
